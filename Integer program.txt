@@ -6,7 +6,8 @@ namespace MyApplication
   {
     static void Main(string[] args)
     {
-      int myNum = 15;
+      int myNum = 200;
+      int myNum = 500;
       Console.WriteLine(myNum);
      }
   }
